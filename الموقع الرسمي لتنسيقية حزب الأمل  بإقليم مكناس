@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>التنسيقية الإقليمية لحزب الأمل - مكناس</title>
+  <style>
+    body {font-family: 'Segoe UI', Tahoma, sans-serif;margin: 0;padding: 0;background: #f8f9fa;color: #222;line-height: 1.8;}
+    header {background: #0077c8;color: white;text-align: center;padding: 30px 20px;}
+    header img {max-width: 280px;height: auto;margin-bottom: 15px;}
+    header h1 {margin: 10px 0 0 0;font-size: 26px;font-weight: 600;}
+    .container {max-width: 800px;margin: 40px auto;padding: 0 20px;}
+    .card {background: white;padding: 30px;border-radius: 12px;box-shadow: 0 4px 12px rgba(0,0,0,0.08);margin-bottom: 20px;}
+    .card h2 {color: #0077c8;margin-top: 0;}
+    .btn {display: inline-block;padding: 12px 24px;border-radius: 8px;text-decoration: none;font-weight: bold;margin: 8px 5px 0 0;}
+    .btn-primary {background: #0077c8;color: white;}
+    .btn-whatsapp {background: #25D366;color: white;}
+    .contact-info {margin-top: 20px;}
+    footer {text-align: center;padding: 20px;font-size: 14px;color: #666;background: #fff;}
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="شعار حزب الأمل">
+    <h1>التنسيقية الإقليمية - مكناس</h1>
+  </header>
+  <div class="container">
+    <div class="card">
+      <h2>رسالتنا</h2>
+      <p>نعمل على أهداف تنموية ترافعية واقعية تهم الشأن العام المحلي والإقليمي. مبدؤنا الأساسي هو <strong>المصداقية</strong> في التواصل والعمل مع المواطنين والمؤسسات.</p>
+    </div>
+    <div class="card">
+      <h2>تواصل معنا</h2>
+      <p>للانخراط، اقتراح فكرة، أو متابعة أنشطتنا:</p>
+      <a href="#" class="btn btn-primary">سجل معنا</a>
+      <a href="https://wa.me/212661890873" class="btn btn-whatsapp" target="_blank">تواصل عبر واتساب</a>
+      <div class="contact-info">
+        <p><strong>المكلف بالتنسيق:</strong> عبد الرحيم الخودي</p>
+        <p><strong>الإيميل:</strong> <a href="mailto:abderrahimelkhaoudi3@gmail.com">abderrahimelkhaoudi3@gmail.com</a></
